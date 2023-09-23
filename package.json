@@ -1,0 +1,15 @@
+{
+  "name": "school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "school.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Discord article_012",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^4.0.0"
+  }
+}
